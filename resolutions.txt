@@ -2,6 +2,6 @@
 6, 670, 1090 # 9:16 portrait
 7, 720, 1170 # 9:16 portrait
 8, 800, 1280 # 9:16 portrait
-10, 1280, 1920 # 9:16 portrait
+16, 1600, 900 # 9:16 portrait
 -12, 1280, 720 # 9:16 portrait
 -19, 1920, 1080 # 9:16 portrait
